@@ -24,4 +24,12 @@ x=SOE(100)
 print(*x) 
 ```
 
-* To know more aboutSieve Of Eratosthenes [Click Here](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+* To know more about Sieve Of Eratosthenes [Click Here](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+* To know more about Prime Factors [Click Here](https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/)
+
+### Problems To Solve :-
+* [CodeChef-Prime-factor](https://www.codechef.com/tags/problems/prime-factorization)
+* [Gfg](https://www.geeksforgeeks.org/prime-factor/)
+
+
+### Happy Coding :)
