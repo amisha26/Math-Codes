@@ -23,3 +23,5 @@ def SOE(n):
 x=SOE(100)
 print(*x) 
 ```
+
+* To know more aboutSieve Of Eratosthenes [Click Here](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
