@@ -1,0 +1,1 @@
+## This repo contains codes for finding Prime-factors or Factors with different T.C 
