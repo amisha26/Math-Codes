@@ -4,6 +4,8 @@
 * Like Sieve of Eratosthenes for Prime no. T.C-- n*log(log n)
 * The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million or so
 
+
+###  Sieve Of Eratosthenes code :-
 ```
 def SOE(n): 
     p=[True]*(n+1) 
