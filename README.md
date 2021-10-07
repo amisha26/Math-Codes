@@ -29,7 +29,7 @@ print(*x)
 
 ### Problems To Solve :-
 * [CodeChef-Prime-factor](https://www.codechef.com/tags/problems/prime-factorization)
-* [Gfg](https://www.geeksforgeeks.org/prime-factor/)
+* [Gfg--Prime-factor](https://www.geeksforgeeks.org/prime-factor/)
 
 
 ### Happy Coding :)
